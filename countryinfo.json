@@ -1,0 +1,22 @@
+{
+	"GNP": "8510700",
+	"id": "USA",
+	"name": "United state",
+	"indepyear": "1776",
+
+	"geography": {
+		"region": "North America",
+		"continent": "North America",
+		"surfacearea": "9363520"
+	},
+
+	"government": {
+		"headofstate": "George w.Bush",
+		"governmentform": "Federal Republic"
+	},
+
+	"demographics": {
+		"population": "278357000",
+		"lifeexpecancy": "77.0999984741221"
+	}
+}
